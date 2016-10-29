@@ -1,0 +1,133 @@
+body{
+    margin: 0px;
+}
+/*********   link   *********/
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: gray;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover {
+    color: #FF6700;
+}
+
+#text_foot_2 a:link {
+    color: gray;
+}
+#text_foot_3 a:link {
+    color: gray;
+}
+
+#text_foot_2 a:visited {
+    color: gray;
+}
+
+#text_foot_3 a:visited {
+    color: gray;
+}
+
+/*********   style   ************/
+#login_mi{
+    width:520px;
+    height:600px;
+    margin: 0 auto;  
+}
+#mi_img{
+    width:80px;
+    height:80px;
+    margin:0 auto;
+    margin-bottom:20px;
+    margin-top: 20px;
+    
+}
+
+#text_1{
+    /*width:100px;
+    height: 18px;
+    margin:0 auto;*/
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-family: "微软雅黑"
+}
+
+#login_account{
+    height: 60px;
+    text-align: center;
+}
+#phone_num{
+    padding: 1px;
+    width: 340px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+#login_pass{
+    height: 60px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#pass{
+    padding: 1px;
+    width: 340px;
+    height: 40px;
+    margin-bottom: 20px; 
+}
+
+#login_submit{
+    height: 60px;
+    text-align: center;
+    
+}
+
+#sub{
+    padding: 0px;
+    border: 0px;
+    width: 346px;
+    height: 46px;
+    margin-bottom: 20px; 
+    background-color:#FF6700;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+#text_2{
+    text-align: center;
+    color: gray;
+    margin-top: 15px;
+    font-size: 10px;
+    font-family: "微软雅黑";
+    margin-bottom: 25px;
+}
+
+#text_foot_1{
+    text-align: center;
+    font-size: 13px;
+    font-family: "微软雅黑";
+    margin-bottom: 80px;
+    margin-top: 40px;
+
+}
+
+#text_foot_2{
+    text-align: center;
+    font-size: 8px;
+    font-family: "微软雅黑";
+    margin-bottom: 15px;
+}
+
+#text_foot_3{
+    text-align: center;
+    font-size: 6px;
+    font-family: "微软雅黑";
+    margin-bottom: 15px;
+    color: gray;
+}
